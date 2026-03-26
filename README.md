@@ -46,8 +46,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nianshu2022&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nianshu2022&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=nianshu2022&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nianshu2022&theme=tokyo-night&hide_border=true&area=true&color=6366f1&line=6366f1&point=f97316" width="100%"/>
 
 <br/>
 
