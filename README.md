@@ -46,7 +46,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nianshu2022&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nianshu2022&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nianshu2022&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nianshu2022&theme=tokyonight" height="160"/>
 
 <br/>
 
